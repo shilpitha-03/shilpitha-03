@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 I'm currently masters student working on learning based perception for autonomous systems.<br>I'm looking to collaborate on the Ai for Industry Challenge by Intrinsic.<br>I would love to connect and discuss about the current state of AI, SOTA architectures and industry standard scalable solutions.
 
