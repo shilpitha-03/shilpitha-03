@@ -3,7 +3,7 @@ I’m a Master’s student focused on learning-based perception for autonomous s
 
 My interests span SOTA architectures (transformers, foundation models, multimodal learning), scalable perception pipelines, and industry-grade deployment of ML systems, bridging research and production. Always open to technical discussions around robust perception, data efficiency, sim-to-real transfer, and scalable AI systems for autonomy and industrial automation.
 
-I’m actively exploring collaboration opportunities for the Intrinsic AI for Industry Challenge, with a strong interest in applying state-of-the-art perception models to real-world industrial robotics problems.
+I’m actively exploring collaboration opportunities, with a strong interest in applying state-of-the-art perception models to real-world industrial robotics problems.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpitha-chowdary-t03) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sthokal1@jh.edu) 
